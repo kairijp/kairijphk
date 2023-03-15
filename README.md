@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PolarisEagle
-Currently learning Python, Luau
+Currently learning Python, Luau, and JavaScript
 - Student.
 
 <!---
