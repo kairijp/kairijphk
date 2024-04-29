@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PolarisEagle
+- 👋 Hi, I’m @kairijphk
 Currently learning Python, Luau, and JavaScript
-- Student.
+- Student
 
 <!---
 PolarisEagle/PolarisEagle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
